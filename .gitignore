@@ -1,0 +1,10 @@
+node_modules/
+dist/
+jsconfig.json
+.tern-project
+.imdone
+.idea
+.DS_Store
+.project
+.settings
+.vscode
