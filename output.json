@@ -1,0 +1,2412 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 643527137,
+            "message": {
+                "message_id": 132,
+                "from": {
+                    "id": 227691619,
+                    "is_bot": false,
+                    "first_name": "Fritze",
+                    "last_name": "Hansen",
+                    "username": "fritze69"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511768828,
+                "text": "Durchwachsen. Der Cup an sich war super, gibt nix zu meckern, aber zu viele Punkte liegen lassen, also nur 10. geworden"
+            }
+        },
+        {
+            "update_id": 643527138,
+            "message": {
+                "message_id": 133,
+                "from": {
+                    "id": 429571837,
+                    "is_bot": false,
+                    "first_name": "xtapa",
+                    "language_code": "en-US"
+                },
+                "chat": {
+                    "id": 429571837,
+                    "first_name": "xtapa",
+                    "type": "private"
+                },
+                "date": 1511773576,
+                "text": "Testmessage"
+            }
+        },
+        {
+            "update_id": 643527139,
+            "message": {
+                "message_id": 134,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511774904,
+                "photo": [
+                    {
+                        "file_id": "AgADAgADV6gxG_0O4EjlX5JnqUCvklrVDw4ABCpyxqJtICJDyEoDAAEC",
+                        "file_size": 947,
+                        "width": 51,
+                        "height": 90
+                    },
+                    {
+                        "file_id": "AgADAgADV6gxG_0O4EjlX5JnqUCvklrVDw4ABFJVbR8sWE58x0oDAAEC",
+                        "file_size": 9713,
+                        "width": 180,
+                        "height": 320
+                    },
+                    {
+                        "file_id": "AgADAgADV6gxG_0O4EjlX5JnqUCvklrVDw4ABHcBtYGZEWDDyUoDAAEC",
+                        "file_size": 42078,
+                        "width": 449,
+                        "height": 800
+                    },
+                    {
+                        "file_id": "AgADAgADV6gxG_0O4EjlX5JnqUCvklrVDw4ABGNLKX7sa-WFxkoDAAEC",
+                        "file_size": 78049,
+                        "width": 719,
+                        "height": 1280
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 643527140,
+            "message": {
+                "message_id": 135,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511774911,
+                "text": "Wer wars??\ud83d\ude02\ud83d\ude02"
+            }
+        },
+        {
+            "update_id": 643527141,
+            "message": {
+                "message_id": 136,
+                "from": {
+                    "id": 309667036,
+                    "is_bot": false,
+                    "first_name": "Torsten"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511775059,
+                "sticker": {
+                    "width": 314,
+                    "height": 512,
+                    "emoji": "\ud83d\ude02",
+                    "set_name": "TelegramGreatMinds",
+                    "thumb": {
+                        "file_id": "AAQCABMHxVkqAAR8NHS6Hygared-AAIC",
+                        "file_size": 2204,
+                        "width": 55,
+                        "height": 90
+                    },
+                    "file_id": "CAADAgADPwADyIsGAAGI1S2AmQ002AI",
+                    "file_size": 36976
+                }
+            }
+        },
+        {
+            "update_id": 643527142,
+            "message": {
+                "message_id": 137,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511775691,
+                "sticker": {
+                    "width": 382,
+                    "height": 512,
+                    "emoji": "\ud83d\udc4d",
+                    "set_name": "TelegramGreatMinds",
+                    "thumb": {
+                        "file_id": "AAQCABNchFkqAARxq50WW9vqNVXtAAIC",
+                        "file_size": 2436,
+                        "width": 67,
+                        "height": 90
+                    },
+                    "file_id": "CAADAgADGQADyIsGAAFl6KYZBflVyQI",
+                    "file_size": 40498
+                }
+            }
+        },
+        {
+            "update_id": 643527143,
+            "message": {
+                "message_id": 138,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511778384,
+                "text": "https://youtu.be/uLjyxZ6nb2A",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 28,
+                        "type": "url"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 643527144,
+            "message": {
+                "message_id": 139,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511778409,
+                "text": "Bitte alle 51 Mitglieder gef\u00e4llt mir dr\u00fccken \ud83d\udc4c\ud83d\ude1c\ud83d\udc4d"
+            }
+        },
+        {
+            "update_id": 643527145,
+            "message": {
+                "message_id": 140,
+                "from": {
+                    "id": 466081861,
+                    "is_bot": false,
+                    "first_name": "Marc"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511778548,
+                "text": "94 schon... Sascha kann bald los legen"
+            }
+        },
+        {
+            "update_id": 643527146,
+            "message": {
+                "message_id": 141,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511778973,
+                "text": "Bitte mit Gameplay und 300fps im Ausland chronen wie bei den ersten Videos @icp_ms",
+                "entities": [
+                    {
+                        "offset": 75,
+                        "length": 7,
+                        "type": "mention"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 643527147,
+            "message": {
+                "message_id": 142,
+                "from": {
+                    "id": 363494844,
+                    "is_bot": false,
+                    "first_name": "Chris",
+                    "username": "d0chollid4y"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511779176,
+                "text": "Noch 2... Bis Ende des Jahres... \ud83d\ude02"
+            }
+        },
+        {
+            "update_id": 643527148,
+            "message": {
+                "message_id": 143,
+                "from": {
+                    "id": 273683821,
+                    "is_bot": false,
+                    "first_name": "Sascha",
+                    "last_name": "R\u00f6der",
+                    "username": "icp_ms"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511779766,
+                "reply_to_message": {
+                    "message_id": 141,
+                    "from": {
+                        "id": 251725163,
+                        "is_bot": false,
+                        "first_name": "Doogy_88s",
+                        "username": "Doogy_88s"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511778973,
+                    "text": "Bitte mit Gameplay und 300fps im Ausland chronen wie bei den ersten Videos @icp_ms",
+                    "entities": [
+                        {
+                            "offset": 75,
+                            "length": 7,
+                            "type": "mention"
+                        }
+                    ]
+                },
+                "text": "Hier gibt es ja keine Felder mehr. Hier macht alles dicht. Was meinst du warum ich mir nen 300bar Kompressor gekauft habe"
+            }
+        },
+        {
+            "update_id": 643527149,
+            "message": {
+                "message_id": 144,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511779933,
+                "text": "Schei\u00dfe ohne Witz?"
+            }
+        },
+        {
+            "update_id": 643527150,
+            "message": {
+                "message_id": 145,
+                "from": {
+                    "id": 273683821,
+                    "is_bot": false,
+                    "first_name": "Sascha",
+                    "last_name": "R\u00f6der",
+                    "username": "icp_ms"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511780485,
+                "text": "Ja man\nM\u00fcsste mehr als 250-300 km fahren\n\nIch wohne an der Schweizer Grenze und Solms ist quasi das n\u00e4chste Feld. Noch fragen"
+            }
+        },
+        {
+            "update_id": 643527151,
+            "message": {
+                "message_id": 146,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511780848,
+                "text": "Fuck da merkt Mann wieder wie entspannt ich es hier habe"
+            }
+        },
+        {
+            "update_id": 643527152,
+            "message": {
+                "message_id": 147,
+                "from": {
+                    "id": 257497409,
+                    "is_bot": false,
+                    "first_name": "Wheeler",
+                    "username": "WheelerXXL"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511781805,
+                "text": "Und das obwohl es mim Dome mal DAS indoorfeld \u00fcberhaupt da unten gab"
+            }
+        },
+        {
+            "update_id": 643527153,
+            "message": {
+                "message_id": 148,
+                "from": {
+                    "id": 257497409,
+                    "is_bot": false,
+                    "first_name": "Wheeler",
+                    "username": "WheelerXXL"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511781815,
+                "text": "Schade eigentlich"
+            }
+        },
+        {
+            "update_id": 643527154,
+            "message": {
+                "message_id": 149,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511781912,
+                "text": "Die Onfire Jungs schw\u00e4rmen auch immer noch vom Dome"
+            }
+        },
+        {
+            "update_id": 643527155,
+            "message": {
+                "message_id": 150,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511781926,
+                "text": "Ich selbst war leider nicht mehr da"
+            }
+        },
+        {
+            "update_id": 643527156,
+            "message": {
+                "message_id": 151,
+                "from": {
+                    "id": 429571837,
+                    "is_bot": false,
+                    "first_name": "xtapa",
+                    "language_code": "de"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511782579,
+                "text": "Und ich dachte oh h\u00e4tte es hier schlecht \ud83d\ude13"
+            }
+        },
+        {
+            "update_id": 643527157,
+            "message": {
+                "message_id": 152,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511782670,
+                "text": "@icp_ms  jetzt hast du die ganzen Cocker Hippster am Arsch \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 7,
+                        "type": "mention"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 643527158,
+            "message": {
+                "message_id": 153,
+                "from": {
+                    "id": 363494844,
+                    "is_bot": false,
+                    "first_name": "Chris",
+                    "username": "d0chollid4y"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511782746,
+                "text": "Da kann man dann langsam nachvollziehen, das man sich nen anderes Hobby sucht.\nBtw @icp_ms wie lief die Angelpr\u00fcfung?",
+                "entities": [
+                    {
+                        "offset": 83,
+                        "length": 7,
+                        "type": "mention"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 643527159,
+            "message": {
+                "message_id": 154,
+                "from": {
+                    "id": 273683821,
+                    "is_bot": false,
+                    "first_name": "Sascha",
+                    "last_name": "R\u00f6der",
+                    "username": "icp_ms"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511783939,
+                "reply_to_message": {
+                    "message_id": 153,
+                    "from": {
+                        "id": 363494844,
+                        "is_bot": false,
+                        "first_name": "Chris",
+                        "username": "d0chollid4y"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511782746,
+                    "text": "Da kann man dann langsam nachvollziehen, das man sich nen anderes Hobby sucht.\nBtw @icp_ms wie lief die Angelpr\u00fcfung?",
+                    "entities": [
+                        {
+                            "offset": 83,
+                            "length": 7,
+                            "type": "mention"
+                        }
+                    ]
+                },
+                "text": "Habe das Ergebnis noch nicht. Aber glaube bin mit 4 Fehlern dabei."
+            }
+        },
+        {
+            "update_id": 643527160,
+            "message": {
+                "message_id": 155,
+                "from": {
+                    "id": 273683821,
+                    "is_bot": false,
+                    "first_name": "Sascha",
+                    "last_name": "R\u00f6der",
+                    "username": "icp_ms"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511783966,
+                "photo": [
+                    {
+                        "file_id": "AgADAgADa6gxG_0O4Eh8T5KD7Rwt5jDzAw4ABNSK74LY6p1LOCwAAgI",
+                        "file_size": 1422,
+                        "width": 51,
+                        "height": 90
+                    },
+                    {
+                        "file_id": "AgADAgADa6gxG_0O4Eh8T5KD7Rwt5jDzAw4ABGKE62mk35O0OSwAAgI",
+                        "file_size": 17025,
+                        "width": 180,
+                        "height": 320
+                    },
+                    {
+                        "file_id": "AgADAgADa6gxG_0O4Eh8T5KD7Rwt5jDzAw4ABAx0Q8mGhWWgOiwAAgI",
+                        "file_size": 73596,
+                        "width": 450,
+                        "height": 800
+                    },
+                    {
+                        "file_id": "AgADAgADa6gxG_0O4Eh8T5KD7Rwt5jDzAw4ABHjLuZu0A8CINywAAgI",
+                        "file_size": 122156,
+                        "width": 720,
+                        "height": 1280
+                    }
+                ],
+                "caption": "Hab auch noch andere Hobbys"
+            }
+        },
+        {
+            "update_id": 643527161,
+            "message": {
+                "message_id": 156,
+                "from": {
+                    "id": 464146834,
+                    "is_bot": false,
+                    "first_name": "KURTison"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511783973,
+                "text": "Jetzt kann es losgehen mit dem Video zur Cocker \ud83d\udc4f\ud83d\udc4c ich bin gespannt \ud83d\ude0e"
+            }
+        },
+        {
+            "update_id": 643527162,
+            "message": {
+                "message_id": 157,
+                "from": {
+                    "id": 273683821,
+                    "is_bot": false,
+                    "first_name": "Sascha",
+                    "last_name": "R\u00f6der",
+                    "username": "icp_ms"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511784120,
+                "text": "Hab bissel Angst vor dem Video"
+            }
+        },
+        {
+            "update_id": 643527163,
+            "message": {
+                "message_id": 158,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511784208,
+                "text": "Weil Cocker Fans voll Assis sind und jedes falsche Wort gleicht als kriegserkl\u00e4rung verstehen? \ud83d\ude02"
+            }
+        },
+        {
+            "update_id": 643527164,
+            "message": {
+                "message_id": 159,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511784216,
+                "text": "Kann ich verstehen"
+            }
+        },
+        {
+            "update_id": 643527165,
+            "message": {
+                "message_id": 160,
+                "from": {
+                    "id": 257497409,
+                    "is_bot": false,
+                    "first_name": "Wheeler",
+                    "username": "WheelerXXL"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511784273,
+                "text": "Frag doch mal beim Museums Besitzer nach dann macht ihr das gemeinsam"
+            }
+        },
+        {
+            "update_id": 643527166,
+            "message": {
+                "message_id": 161,
+                "from": {
+                    "id": 257497409,
+                    "is_bot": false,
+                    "first_name": "Wheeler",
+                    "username": "WheelerXXL"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511784303,
+                "text": "Ich hab mir sagen lassen das der Herr RST ganz gut Ahnung von so Cockern haben soll"
+            }
+        },
+        {
+            "update_id": 643527167,
+            "message": {
+                "message_id": 162,
+                "from": {
+                    "id": 273683821,
+                    "is_bot": false,
+                    "first_name": "Sascha",
+                    "last_name": "R\u00f6der",
+                    "username": "icp_ms"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511784437,
+                "reply_to_message": {
+                    "message_id": 158,
+                    "from": {
+                        "id": 251725163,
+                        "is_bot": false,
+                        "first_name": "Doogy_88s",
+                        "username": "Doogy_88s"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511784208,
+                    "text": "Weil Cocker Fans voll Assis sind und jedes falsche Wort gleicht als kriegserkl\u00e4rung verstehen? \ud83d\ude02"
+                },
+                "text": "Bissel wie die pumpenspieler\ud83e\udd23"
+            }
+        },
+        {
+            "update_id": 643527168,
+            "message": {
+                "message_id": 163,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511784931,
+                "reply_to_message": {
+                    "message_id": 158,
+                    "from": {
+                        "id": 251725163,
+                        "is_bot": false,
+                        "first_name": "Doogy_88s",
+                        "username": "Doogy_88s"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511784208,
+                    "text": "Weil Cocker Fans voll Assis sind und jedes falsche Wort gleicht als kriegserkl\u00e4rung verstehen? \ud83d\ude02"
+                },
+                "text": "Ja das ja wie Sonne Religion! \nPray to the \"closed bolt accuracy\" god!"
+            }
+        },
+        {
+            "update_id": 643527169,
+            "message": {
+                "message_id": 164,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511785205,
+                "text": "Ich bin ja auch Cocker Fan trotzdem sehen ich ein das die alle eine Macke haben \ud83d\ude02 Fremdenfeindlichkeit bekommt in der Cocker Szene eine ganz neue bedeutung"
+            }
+        },
+        {
+            "update_id": 643527170,
+            "message": {
+                "message_id": 165,
+                "from": {
+                    "id": 363494844,
+                    "is_bot": false,
+                    "first_name": "Chris",
+                    "username": "d0chollid4y"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511785433,
+                "text": "\ud83d\ude02"
+            }
+        },
+        {
+            "update_id": 643527171,
+            "message": {
+                "message_id": 166,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511785722,
+                "text": "Und Sascha kann Autococker nicht mal leiden \ud83d\ude0a aber ich bin mir sicher das Video wird ein Hit einfach ganz neutral und sachlich berichten wie immer."
+            }
+        },
+        {
+            "update_id": 643527172,
+            "message": {
+                "message_id": 167,
+                "from": {
+                    "id": 429571837,
+                    "is_bot": false,
+                    "first_name": "xtapa",
+                    "language_code": "en-US"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511787843,
+                "text": "leichter spam-angriff aufs hub? :x"
+            }
+        },
+        {
+            "update_id": 643527173,
+            "message": {
+                "message_id": 168,
+                "from": {
+                    "id": 468490071,
+                    "is_bot": false,
+                    "first_name": "Gerrit"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511787984,
+                "text": "Dezent"
+            }
+        },
+        {
+            "update_id": 643527174,
+            "message": {
+                "message_id": 169,
+                "from": {
+                    "id": 468490071,
+                    "is_bot": false,
+                    "first_name": "Gerrit"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511787990,
+                "text": "Kefos!"
+            }
+        },
+        {
+            "update_id": 643527175,
+            "message": {
+                "message_id": 170,
+                "from": {
+                    "id": 468490071,
+                    "is_bot": false,
+                    "first_name": "Gerrit"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511788072,
+                "text": "Das machts den mods und admins bestimmt nich einfacher. :("
+            }
+        },
+        {
+            "update_id": 643527176,
+            "message": {
+                "message_id": 171,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511788188,
+                "text": "Nutzerverifizierung bevor Post m\u00fcsste doch was bringen"
+            }
+        },
+        {
+            "update_id": 643527177,
+            "message": {
+                "message_id": 172,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511788559,
+                "text": "Kefos"
+            }
+        },
+        {
+            "update_id": 643527178,
+            "message": {
+                "message_id": 173,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511788908,
+                "reply_to_message": {
+                    "message_id": 155,
+                    "from": {
+                        "id": 273683821,
+                        "is_bot": false,
+                        "first_name": "Sascha",
+                        "last_name": "R\u00f6der",
+                        "username": "icp_ms"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511783966,
+                    "photo": [
+                        {
+                            "file_id": "AgADAgADa6gxG_0O4Eh8T5KD7Rwt5jDzAw4ABNSK74LY6p1LOCwAAgI",
+                            "file_size": 1422,
+                            "file_path": "photos/file_2.jpg",
+                            "width": 51,
+                            "height": 90
+                        },
+                        {
+                            "file_id": "AgADAgADa6gxG_0O4Eh8T5KD7Rwt5jDzAw4ABGKE62mk35O0OSwAAgI",
+                            "file_size": 17025,
+                            "width": 180,
+                            "height": 320
+                        },
+                        {
+                            "file_id": "AgADAgADa6gxG_0O4Eh8T5KD7Rwt5jDzAw4ABAx0Q8mGhWWgOiwAAgI",
+                            "file_size": 73596,
+                            "width": 450,
+                            "height": 800
+                        },
+                        {
+                            "file_id": "AgADAgADa6gxG_0O4Eh8T5KD7Rwt5jDzAw4ABHjLuZu0A8CINywAAgI",
+                            "file_size": 122156,
+                            "width": 720,
+                            "height": 1280
+                        }
+                    ],
+                    "caption": "Hab auch noch andere Hobbys"
+                },
+                "text": "Nur Pistole oder auch Gewehr?"
+            }
+        },
+        {
+            "update_id": 643527179,
+            "message": {
+                "message_id": 174,
+                "from": {
+                    "id": 429571837,
+                    "is_bot": false,
+                    "first_name": "xtapa",
+                    "language_code": "en-US"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511789539,
+                "text": "das seltsame: der botschutz scheint ja bedingt zu funktionieren. zumindest kann ich die posts nie aufrufen und in den aktuellsten themen tauchen die auch nicht auf. nur in der auflistung auf der startseite bekomme ich was davon mit... das macht alles umso mysteri\u00f6ser"
+            }
+        },
+        {
+            "update_id": 643527180,
+            "message": {
+                "message_id": 175,
+                "from": {
+                    "id": 363494844,
+                    "is_bot": false,
+                    "first_name": "Chris",
+                    "username": "d0chollid4y"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511791138,
+                "reply_to_message": {
+                    "message_id": 173,
+                    "from": {
+                        "id": 429088438,
+                        "is_bot": false,
+                        "first_name": "Theb\u00e4stschn",
+                        "username": "gdog33"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511788908,
+                    "text": "Nur Pistole oder auch Gewehr?"
+                },
+                "text": "Ich finde es ja auch interessant, das der Anteil an Sportsch\u00fctzen bei Paintballern so hoch ist. Oder das kommt mir nur so vor, weil ich au\u00dferhalb keine/kaum Sch\u00fctzen kenne."
+            }
+        },
+        {
+            "update_id": 643527181,
+            "message": {
+                "message_id": 176,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511792220,
+                "text": "Ist das so? Kenne nicht soviele die beides machen \ud83d\ude05"
+            }
+        },
+        {
+            "update_id": 643527182,
+            "message": {
+                "message_id": 177,
+                "from": {
+                    "id": 273683821,
+                    "is_bot": false,
+                    "first_name": "Sascha",
+                    "last_name": "R\u00f6der",
+                    "username": "icp_ms"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511792376,
+                "reply_to_message": {
+                    "message_id": 173,
+                    "from": {
+                        "id": 429088438,
+                        "is_bot": false,
+                        "first_name": "Theb\u00e4stschn",
+                        "username": "gdog33"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511788908,
+                    "text": "Nur Pistole oder auch Gewehr?"
+                },
+                "text": "Gewehr k\u00f6nnte ich auf gelb holen. Aber Pistole macht mehr Laune. Und man ist nicht so doof angezogen"
+            }
+        },
+        {
+            "update_id": 643527183,
+            "message": {
+                "message_id": 178,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511792968,
+                "text": "Ja ich hab nen Arbeitskollegen, der macht kk und halt Pistole...\nAber er sagt genau das gleiche wie du, Pistole issja auch iwi anspruchsvoller"
+            }
+        },
+        {
+            "update_id": 643527184,
+            "message": {
+                "message_id": 179,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511793503,
+                "text": "@icp_ms mal ne andere frage, hattest du die Blade trigger f\u00fcr die RSX damals konventionell gefertigt?",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 7,
+                        "type": "mention"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 643527185,
+            "message": {
+                "message_id": 180,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511793575,
+                "text": "Sry nat\u00fcrlich die Hub trigger"
+            }
+        },
+        {
+            "update_id": 643527186,
+            "message": {
+                "message_id": 181,
+                "from": {
+                    "id": 251725163,
+                    "is_bot": false,
+                    "first_name": "Doogy_88s",
+                    "username": "Doogy_88s"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511794058,
+                "text": "Hub Trigger in der Rsx war sexy \u2764\ufe0f"
+            }
+        },
+        {
+            "update_id": 643527187,
+            "message": {
+                "message_id": 182,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511795024,
+                "reply_to_message": {
+                    "message_id": 174,
+                    "from": {
+                        "id": 429571837,
+                        "is_bot": false,
+                        "first_name": "xtapa",
+                        "language_code": "en-US"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511789539,
+                    "text": "das seltsame: der botschutz scheint ja bedingt zu funktionieren. zumindest kann ich die posts nie aufrufen und in den aktuellsten themen tauchen die auch nicht auf. nur in der auflistung auf der startseite bekomme ich was davon mit... das macht alles umso mysteri\u00f6ser"
+                },
+                "text": "Ist ein wenig komplizierter.\n\nWir haben \n1. Verifizierung bei Registrierung\n2. Die ersten 3 Posts m\u00fcssen freigegeben werden.\n\n1. Wird per bot umgangen, da die email Adresse ja existiert.\n2. Die Post sind da. In den Themen wo sie hinsollten. Sie sind nur nicht sichtbar f\u00fcr euch, sondern nur ab Mod aufw\u00e4rts. Damit wir die moderieren k\u00f6nnen.\n\nDie Startpage hat \"modstatus\" deswegen liest er die posts aus. Beim klicken seht ihr, das ihr nicht berechtigt seid.....\n\nIch muss mal schauen ob ich die leserechte der Startseite einschr\u00e4nken kann. Dann sollte das Problem f\u00fcr euch weg sein.\n\nWir haben die russenspams dann immer noch am Hals \ud83d\ude02"
+            }
+        },
+        {
+            "update_id": 643527188,
+            "message": {
+                "message_id": 183,
+                "from": {
+                    "id": 429571837,
+                    "is_bot": false,
+                    "first_name": "xtapa",
+                    "language_code": "en-US"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511795537,
+                "text": "ah, interessant \ud83d\udc4d"
+            }
+        },
+        {
+            "update_id": 643527189,
+            "message": {
+                "message_id": 184,
+                "from": {
+                    "id": 273683821,
+                    "is_bot": false,
+                    "first_name": "Sascha",
+                    "last_name": "R\u00f6der",
+                    "username": "icp_ms"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511796973,
+                "reply_to_message": {
+                    "message_id": 179,
+                    "from": {
+                        "id": 429088438,
+                        "is_bot": false,
+                        "first_name": "Theb\u00e4stschn",
+                        "username": "gdog33"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511793503,
+                    "text": "@icp_ms mal ne andere frage, hattest du die Blade trigger f\u00fcr die RSX damals konventionell gefertigt?",
+                    "entities": [
+                        {
+                            "offset": 0,
+                            "length": 7,
+                            "type": "mention"
+                        }
+                    ]
+                },
+                "text": "Die Rohlinge waren Laser geschnitten. Der Rest war konventionell"
+            }
+        },
+        {
+            "update_id": 643527190,
+            "message": {
+                "message_id": 185,
+                "from": {
+                    "id": 309667036,
+                    "is_bot": false,
+                    "first_name": "Torsten"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511802900,
+                "text": "Ich glaube ich muss das auch nochmal probieren..."
+            }
+        },
+        {
+            "update_id": 643527191,
+            "message": {
+                "message_id": 186,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804626,
+                "text": "Warum ist hier nix los??"
+            }
+        },
+        {
+            "update_id": 643527192,
+            "message": {
+                "message_id": 187,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804640,
+                "text": "Titten?"
+            }
+        },
+        {
+            "update_id": 643527193,
+            "message": {
+                "message_id": 188,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804656,
+                "text": "-hab ich da titten geh\u00f6rt??\ud83d\ude0d"
+            }
+        },
+        {
+            "update_id": 643527194,
+            "message": {
+                "message_id": 189,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804691,
+                "text": "Habe gesehen dass du tippst. Wollte dich nur verwirren und dich zwingen alles zu l\u00f6schen und neu zu tippen \ud83d\ude02"
+            }
+        },
+        {
+            "update_id": 643527195,
+            "message": {
+                "message_id": 190,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804692,
+                "photo": [
+                    {
+                        "file_id": "AgADAgADiKgxG_0O4EhwyDHzEBvFy3QYMw4ABAatuizSbdlKqPUAAgI",
+                        "file_size": 1299,
+                        "width": 51,
+                        "height": 90
+                    },
+                    {
+                        "file_id": "AgADAgADiKgxG_0O4EhwyDHzEBvFy3QYMw4ABBk2fdDgvsX5qfUAAgI",
+                        "file_size": 14395,
+                        "width": 180,
+                        "height": 320
+                    },
+                    {
+                        "file_id": "AgADAgADiKgxG_0O4EhwyDHzEBvFy3QYMw4ABKh5PozWRyZXqvUAAgI",
+                        "file_size": 60633,
+                        "width": 450,
+                        "height": 800
+                    },
+                    {
+                        "file_id": "AgADAgADiKgxG_0O4EhwyDHzEBvFy3QYMw4ABNH4v6CnxuQYp_UAAgI",
+                        "file_size": 69227,
+                        "width": 600,
+                        "height": 1066
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 643527196,
+            "message": {
+                "message_id": 191,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804714,
+                "text": "Deine?\ud83d\ude05"
+            }
+        },
+        {
+            "update_id": 643527197,
+            "message": {
+                "message_id": 192,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804739,
+                "text": "Ne"
+            }
+        },
+        {
+            "update_id": 643527198,
+            "message": {
+                "message_id": 193,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804764,
+                "text": "Von nem Teamkollegen \ud83d\ude0a"
+            }
+        },
+        {
+            "update_id": 643527199,
+            "message": {
+                "message_id": 194,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804802,
+                "reply_to_message": {
+                    "message_id": 189,
+                    "from": {
+                        "id": 455459006,
+                        "is_bot": false,
+                        "first_name": "TITO",
+                        "last_name": "0815",
+                        "username": "TITO0815"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511804691,
+                    "text": "Habe gesehen dass du tippst. Wollte dich nur verwirren und dich zwingen alles zu l\u00f6schen und neu zu tippen \ud83d\ude02"
+                },
+                "text": "Hat nicht geklappt!"
+            }
+        },
+        {
+            "update_id": 643527200,
+            "message": {
+                "message_id": 195,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804866,
+                "text": "Hier was zum mitsingen!!"
+            }
+        },
+        {
+            "update_id": 643527201,
+            "message": {
+                "message_id": 196,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804892,
+                "text": "https://youtu.be/_mdMb6bRXt4",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 28,
+                        "type": "url"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 643527202,
+            "message": {
+                "message_id": 197,
+                "from": {
+                    "id": 227691619,
+                    "is_bot": false,
+                    "first_name": "Fritze",
+                    "last_name": "Hansen",
+                    "username": "fritze69"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804938,
+                "text": "Sch\u00f6ne br\u00fcste"
+            }
+        },
+        {
+            "update_id": 643527203,
+            "message": {
+                "message_id": 198,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804964,
+                "text": "Deine sind sch\u00f6ner!\ud83d\ude02"
+            }
+        },
+        {
+            "update_id": 643527204,
+            "message": {
+                "message_id": 199,
+                "from": {
+                    "id": 227691619,
+                    "is_bot": false,
+                    "first_name": "Fritze",
+                    "last_name": "Hansen",
+                    "username": "fritze69"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804987,
+                "text": "\ud83d\ude02\ud83d\ude02"
+            }
+        },
+        {
+            "update_id": 643527205,
+            "message": {
+                "message_id": 200,
+                "from": {
+                    "id": 227691619,
+                    "is_bot": false,
+                    "first_name": "Fritze",
+                    "last_name": "Hansen",
+                    "username": "fritze69"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511804988,
+                "text": "\ud83d\udd95\ud83c\udffd"
+            }
+        },
+        {
+            "update_id": 643527206,
+            "message": {
+                "message_id": 201,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511805119,
+                "text": "Der musste sein!!"
+            }
+        },
+        {
+            "update_id": 643527207,
+            "message": {
+                "message_id": 202,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511805211,
+                "text": "Wodurch werden die Posts als modstatus gekennzeichnet ist das nen Datenbank Eintrag der excluded werden kann. Die alte phpbb war doch glaube auch mit dbflags"
+            }
+        },
+        {
+            "update_id": 643527208,
+            "message": {
+                "message_id": 203,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511805375,
+                "text": "Ja die Startseite liest die db Eintr\u00e4ge in den gekennzeichneten Foren id's aus.\n\nDas ist auch der Grund warum \"noch nicht freigegebene Beitr\u00e4ge/Themen\" dort angezeigt werden, denn sie sind aktiv mit einer eigenen db id da."
+            }
+        },
+        {
+            "update_id": 643527209,
+            "message": {
+                "message_id": 204,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511805651,
+                "text": "Was ist die \u00c4nderung wenn eine Post von einem mod freigegeben wird?"
+            }
+        },
+        {
+            "update_id": 643527210,
+            "message": {
+                "message_id": 205,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511805748,
+                "text": "Falls du da Hilfe oder nen Augenpaar brauchst sag bescheid"
+            }
+        },
+        {
+            "update_id": 643527211,
+            "message": {
+                "message_id": 206,
+                "from": {
+                    "id": 227691619,
+                    "is_bot": false,
+                    "first_name": "Fritze",
+                    "last_name": "Hansen",
+                    "username": "fritze69"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511805813,
+                "reply_to_message": {
+                    "message_id": 204,
+                    "from": {
+                        "id": 305730144,
+                        "is_bot": false,
+                        "first_name": "Robert"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511805651,
+                    "text": "Was ist die \u00c4nderung wenn eine Post von einem mod freigegeben wird?"
+                },
+                "text": "Wenn es Spam ist, sperren wir mods den verfasser und l\u00f6schen den Beitrag."
+            }
+        },
+        {
+            "update_id": 643527212,
+            "message": {
+                "message_id": 207,
+                "from": {
+                    "id": 227691619,
+                    "is_bot": false,
+                    "first_name": "Fritze",
+                    "last_name": "Hansen",
+                    "username": "fritze69"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511805819,
+                "text": "Mal schneller mal weniger schnell"
+            }
+        },
+        {
+            "update_id": 643527213,
+            "message": {
+                "message_id": 208,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511806259,
+                "text": "Fritze ja das mir schon klar"
+            }
+        },
+        {
+            "update_id": 643527214,
+            "message": {
+                "message_id": 209,
+                "from": {
+                    "id": 227691619,
+                    "is_bot": false,
+                    "first_name": "Fritze",
+                    "last_name": "Hansen",
+                    "username": "fritze69"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511806302,
+                "text": "Achso ok dann \u00e4hm bin ich zu dumm f\u00fcr die Frage"
+            }
+        },
+        {
+            "update_id": 643527215,
+            "message": {
+                "message_id": 210,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511806329,
+                "text": "Aber wie @TITO0815 schon erkl\u00e4rt hat ist die \u00dcbersicht der hub so das die bereits auf die unmoderierten Posts auch zu greift",
+                "entities": [
+                    {
+                        "offset": 9,
+                        "length": 9,
+                        "type": "mention"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 643527216,
+            "message": {
+                "message_id": 211,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511806339,
+                "text": "Und das soll ja ge\u00e4ndert werden"
+            }
+        },
+        {
+            "update_id": 643527217,
+            "message": {
+                "message_id": 212,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511806343,
+                "text": "Oder sollte"
+            }
+        },
+        {
+            "update_id": 643527218,
+            "message": {
+                "message_id": 213,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511806404,
+                "text": "Da regelt man dann meist beim Benutzer nach der das auslesen der Startseite erledigt oder an der Abfrage die der Nutzer macht"
+            }
+        },
+        {
+            "update_id": 643527219,
+            "message": {
+                "message_id": 214,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511806506,
+                "text": "Ich hab mich das letzte mal zu phpbb2.schlagmichtot besch\u00e4ftigt. Das zwar lange her aber an der grunds\u00e4tzlichen Verfahrensweise wird sich da wohl nix \u00e4ndern."
+            }
+        },
+        {
+            "update_id": 643527220,
+            "message": {
+                "message_id": 215,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511806524,
+                "text": "Es ist kein Benutzer die Startseite greif direkt die Datenbank ab....."
+            }
+        },
+        {
+            "update_id": 643527221,
+            "message": {
+                "message_id": 216,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511806561,
+                "text": "Ihr werdet doch keine mongodb ohne nutzersteuerung laufen haben"
+            }
+        },
+        {
+            "update_id": 643527222,
+            "message": {
+                "message_id": 217,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511807513,
+                "text": "Nein. Das nicht.\nAber das auslesen ist recht pragmatisch gestrickt.....\n\nIst halt ein volles eigenprodukt (die Startseite)"
+            }
+        },
+        {
+            "update_id": 643527223,
+            "message": {
+                "message_id": 218,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511807642,
+                "text": "Der Befehl ist stumpf \"auslesen aller Eintr\u00e4ge im Thema id xyz\" und das wird halt stumpf gemacht. Es unterscheidet nicht ob freigegeben oder nicht. Er zeigt nur an was effektiv im Thema xyz einen eigene id zugewiesen bekommt (halt sortiert nach Datum) damit immer der neueste angezeigt wird."
+            }
+        },
+        {
+            "update_id": 643527224,
+            "message": {
+                "message_id": 219,
+                "from": {
+                    "id": 305730144,
+                    "is_bot": false,
+                    "first_name": "Robert"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511807749,
+                "text": "Also doch eine art select"
+            }
+        },
+        {
+            "update_id": 643527225,
+            "message": {
+                "message_id": 220,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511808310,
+                "text": "Ich versteh nur Bahnhof und Abfahrt\nK\u00f6nnen wir wieder \u00fcber titten reden,da hab ich mehr Ahnung von!"
+            }
+        },
+        {
+            "update_id": 643527226,
+            "message": {
+                "message_id": 221,
+                "from": {
+                    "id": 309667036,
+                    "is_bot": false,
+                    "first_name": "Torsten"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511808367,
+                "text": "Klar doch....Titten"
+            }
+        },
+        {
+            "update_id": 643527227,
+            "message": {
+                "message_id": 222,
+                "from": {
+                    "id": 257169710,
+                    "is_bot": false,
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Airgod"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809232,
+                "text": "Hab ich da titten geh\u00f6rt??"
+            }
+        },
+        {
+            "update_id": 643527228,
+            "message": {
+                "message_id": 223,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809352,
+                "text": "Ihr seid mir welche.....geht's hier auch um den geilsten Sport der Welt?"
+            }
+        },
+        {
+            "update_id": 643527229,
+            "message": {
+                "message_id": 224,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809483,
+                "text": "Kefo"
+            }
+        },
+        {
+            "update_id": 643527230,
+            "message": {
+                "message_id": 225,
+                "from": {
+                    "id": 227691619,
+                    "is_bot": false,
+                    "first_name": "Fritze",
+                    "last_name": "Hansen",
+                    "username": "fritze69"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809691,
+                "reply_to_message": {
+                    "message_id": 223,
+                    "from": {
+                        "id": 455459006,
+                        "is_bot": false,
+                        "first_name": "TITO",
+                        "last_name": "0815",
+                        "username": "TITO0815"
+                    },
+                    "chat": {
+                        "id": -154572268,
+                        "title": "#300fps@pbhub.de",
+                        "type": "group",
+                        "all_members_are_administrators": false
+                    },
+                    "date": 1511809352,
+                    "text": "Ihr seid mir welche.....geht's hier auch um den geilsten Sport der Welt?"
+                },
+                "text": "Tittenkneten??"
+            }
+        },
+        {
+            "update_id": 643527231,
+            "message": {
+                "message_id": 226,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809733,
+                "text": "Tittenstarren w\u00e4re auch ne Option"
+            }
+        },
+        {
+            "update_id": 643527232,
+            "message": {
+                "message_id": 227,
+                "from": {
+                    "id": 455459006,
+                    "is_bot": false,
+                    "first_name": "TITO",
+                    "last_name": "0815",
+                    "username": "TITO0815"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809742,
+                "text": "Ich d\u00e4chte hallenhalma"
+            }
+        },
+        {
+            "update_id": 643527233,
+            "message": {
+                "message_id": 228,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809751,
+                "text": "\ud83d\ude02"
+            }
+        },
+        {
+            "update_id": 643527234,
+            "message": {
+                "message_id": 229,
+                "from": {
+                    "id": 429088438,
+                    "is_bot": false,
+                    "first_name": "Theb\u00e4stschn",
+                    "username": "gdog33"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809758,
+                "text": "Kefo"
+            }
+        },
+        {
+            "update_id": 643527235,
+            "message": {
+                "message_id": 230,
+                "from": {
+                    "id": 468490071,
+                    "is_bot": false,
+                    "first_name": "Gerrit"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809763,
+                "text": "Kefo"
+            }
+        },
+        {
+            "update_id": 643527236,
+            "message": {
+                "message_id": 231,
+                "from": {
+                    "id": 468490071,
+                    "is_bot": false,
+                    "first_name": "Gerrit"
+                },
+                "chat": {
+                    "id": -154572268,
+                    "title": "#300fps@pbhub.de",
+                    "type": "group",
+                    "all_members_are_administrators": false
+                },
+                "date": 1511809817,
+                "text": "Is mir gerade zuviel niwo hier..."
+            }
+        }
+    ]
+}

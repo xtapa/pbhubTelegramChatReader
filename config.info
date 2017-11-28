@@ -1,0 +1,5 @@
+telegram_token should be the token of your telegram bot.
+To obtain a token go to telegram, start a chat with @BotFather send /token and follow the instructions
+
+chat_id should contain the ID of the chat you want to watch. To get the ID, you have to make a getUpdates API call to your bot as following:
+"https://api.telegram.org/bot<bot_token>/getUpdates" - paste into browser address bar. private chat-id's are positive numbers, group chat id's are negative numbers
